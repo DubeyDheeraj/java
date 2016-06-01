@@ -1,4 +1,4 @@
-package java.pp.mathsproblem;
+package org.pp.math;
 
 /**
  * Prime Number Logic: Prime Number are divisible by itself only.

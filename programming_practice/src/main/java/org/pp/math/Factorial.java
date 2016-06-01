@@ -1,4 +1,4 @@
-package java.pp.mathsproblem;
+package org.pp.math;
 
 public class Factorial {
 
